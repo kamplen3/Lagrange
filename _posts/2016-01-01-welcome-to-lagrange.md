@@ -1,42 +1,72 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Coches: Tres leyendas del asfalto protagonizan un evento histórico: Porsche GT3 RS, Lamborghini Aventador Performante y Ferrari F40 deslumbran en Montmeló"
+author: "Samuel Sáez"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: porche_y_lambo.png
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+**Montmeló, 25 de noviembre de 2025** — El Circuit de Barcelona-Catalunya fue escenario este fin de semana de uno de los eventos automovilísticos más esperados del año: la exhibición “Supercar Heritage”. Tres máquinas legendarias —el **Porsche 911 GT3 RS**, el **Lamborghini Aventador Performante** y el mítico **Ferrari F40**— se reunieron para ofrecer a los aficionados una demostración irrepetible de potencia, historia y sonido.
 
-## Getting Started
+---
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+## Porsche 911 GT3 RS: precisión quirúrgica alemana
 
-## Example Content
+El Porsche GT3 RS fue uno de los grandes protagonistas de la jornada. Con su motor atmosférico de altas revoluciones y su aerodinámica extrema, marcó los mejores tiempos del evento en vuelta rápida.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Los pilotos invitados destacaron:
 
-## Questions?
+- Su dirección directa y estable.  
+- La tracción impecable en curvas rápidas.  
+- La sensación de control incluso al límite.
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+El sonido del motor bóxer a más de 9.000 rpm se convirtió en uno de los momentos más disfrutados por el público.
 
-## More Jekyll!
+![Ferrari F40](https://raw.githubusercontent.com/kamplen3/myblog2/gh-pages/assets/img/porsche-911-gt3-rs.png)
 
-### Millennial
+---
 
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
+## Lamborghini Aventador Performante: brutalidad y drama italiano
 
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
+Si el Porsche fue la precisión, el **Aventador Performante** representó la pura agresividad. Su V12 resonó por todo Montmeló, atrayendo a la mayor parte de los espectadores durante las aceleraciones en recta.
 
-### Portfolio Jekyll Theme
+Las demostraciones del Performante sorprendieron por:
 
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
+- Su impresionante aerodinámica activa ALA.  
+- La brutal entrega de potencia en salida de curva.  
+- El espectáculo visual de su diseño, que acaparó cámaras y móviles.
 
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
+Aunque no fue el más rápido en tiempos, sí fue el que más impacto visual generó.
 
-### Jekyll Starter Kit
+![Lamborghini Aventador](https://raw.githubusercontent.com/kamplen3/myblog2/gh-pages/assets/img/Lamborghini-aventador.png)
 
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+---
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+## Ferrari F40: una leyenda que sigue viva
+
+El Ferrari F40, considerado por muchos como el mejor superdeportivo jamás construido, fue recibido con una ovación. Su presencia fue una oportunidad rara, ya que apenas quedan unidades en funcionamiento en perfecto estado.
+
+Los aficionados disfrutaron de:
+
+- Su turbo lag “a la vieja escuela”.  
+- Su diseño puramente analógico.  
+- Una conducción sin asistencias, donde todo depende del piloto.
+
+El F40 no compitió por tiempos, pero su vuelta de demostración fue el punto más emotivo del evento.
+
+![Ferrari F40](https://raw.githubusercontent.com/kamplen3/myblog2/gh-pages/assets/img/Ferrari-F40.png)
+
+---
+
+## 📊 Un evento para los amantes del motor
+
+Los organizadores informaron que la asistencia superó las 30.000 personas, consolidando “Supercar Heritage” como uno de los encuentros de coches deportivos más importantes del sur de Europa.
+
+| Modelo                         | Potencia | Comentario destacado |
+|-------------------------------|----------|----------------------|
+| Porsche 911 GT3 RS            | 525 CV   | “El rey de la vuelta rápida” |
+| Lamborghini Aventador Performante | 640 CV | “El espectáculo más salvaje” |
+| Ferrari F40                   | 478 CV   | “La leyenda que nunca muere” |
+
+---
