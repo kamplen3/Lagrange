@@ -4,16 +4,56 @@ title: Welcome to Lagrange!
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+# 🏎️ Acerca de Nosotros
 
-### Getting Started
+Bienvenido a nuestra sección dedicada al **mundo del automovilismo**, un espacio creado para apasionados de la velocidad, la ingeniería y la competición. Nuestro objetivo es ofrecer información clara, actualizada y entretenida sobre todo lo que rodea a este fascinante deporte.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+---
 
-### Example Content
+## 🚦 ¿Quiénes Somos?
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Somos un grupo de entusiastas del motor con años de experiencia siguiendo campeonatos, analizando tecnología automotriz y participando activamente en eventos y comunidades del sector. Creemos que el automovilismo es más que carreras: es innovación, estrategia, emoción y cultura.
 
-### Questions?
+---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+## 🧩 Nuestra Misión
+
+- Difundir conocimientos sobre competiciones como **Fórmula 1, WEC, MotoGP, Rally**, y más.  
+- Explicar la **tecnología** detrás de los vehículos: aerodinámica, motores, telemetría y seguridad.  
+- Acercar al público las últimas **novedades**, análisis y tendencias del motorsport.  
+- Fomentar una comunidad respetuosa y apasionada por las cuatro ruedas.
+
+---
+
+## 🔧 Qué Encontrarás Aquí
+
+- **Artículos técnicos** sobre coches y motos de competición.  
+- **Resumenes y análisis** de carreras.  
+- **Guías para principiantes** sobre categorías del automovilismo.  
+- **Historia del automovilismo**: pilotos, escuderías y momentos icónicos.  
+- **Comparativas y curiosidades** del mundo del motor.
+
+---
+
+## 🏁 Nuestra Filosofía
+
+El automovilismo es un deporte que une emoción y precisión. Valoramos:
+
+- La **innovación** tecnológica constante.  
+- El **trabajo en equipo** detrás de cada piloto.  
+- El **respeto y la seguridad** en pista.  
+- La **pasión** que hace vibrar a millones de fans en todo el planeta.
+
+---
+
+## 📬 Contacto
+
+Si quieres colaborar, sugerir contenido o simplemente hablar de motores, ¡estamos encantados de escucharte!
+
+📧 **contacto@automovilismo.com**
+
+---
+
+**Gracias por formar parte de esta comunidad. ¡Arrancamos y no frenamos!**
+
+🏎️💨
